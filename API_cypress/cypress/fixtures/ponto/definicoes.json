@@ -1,0 +1,42 @@
+{
+    "Definicoes": [
+        {
+            "NrInscEmpregador": "49074113",
+            "Batida": {
+                "HabilitaDigital": true,
+                "ExigeFoto": false,
+                "ExigeCerca": false,
+                "CercaPonto": [
+                    {
+                        "Latitude": "-3.12345",
+                        "Longitude": "-8.54321",
+                        "Raio": "100"
+                    }
+                ]
+            },
+            "Abono": {
+                "DataInicial": "2019-10-01",
+                "DataFinal": "2019-10-25",
+                "HabilitaAtraso": true,
+                "HabilitaFalta": false,
+                "Motivos": {
+                    "10.209": "Gripe",
+                    "10.234": "Acidente",
+                    "10.41": "Luto",
+                    "10.5": "Folga"
+                }
+            },
+            "JustificativaOcorrencia": {
+                "HabilitaJustificativaOcorrencia": true,
+                "Motivos": {
+                    "1": "Batida Indevida",
+                    "2": "Esquecimento de Batida",
+                    "3": "Relógio com problema"
+                }
+            },
+            "LimiteFolhas": {
+                "QtdMesesExibicaoFolha": "3"
+            }
+        }
+    ]
+}

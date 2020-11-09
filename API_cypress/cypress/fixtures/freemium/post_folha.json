@@ -1,0 +1,58 @@
+{
+    "Folhas": [
+        {
+            "AnoMes": "202007",
+            "BaseCalculoINSS": "4.174,61",
+            "BaseCalculoFGTS": "4.174,61",
+            "BaseCalculoIRRF": "3.352,06",
+            "CPF": "39210359372",
+            "CargoCodigo": "008",
+            "CargoNome": "ANALISTA DE SISTEMA",
+            "DataFinal": "30/06/2020",
+            "DataInicial": "01/06/2020",
+            "DataPagamento": "30/06/2020",
+            "SalarioContratual": "4.074,61",
+            "SaldoFGTS": "941,88",
+            "TotalBaseCalculoFerias": "4.074,61",
+            "TpFolha": "2",
+            "TpInscEmpregador": "1",
+            "TpInscEstabelecimento": "1",
+            "ValorDescontos": "300,00",
+            "ValorLiquido": "3500,00",
+            "ValorMargem": "2,00",
+            "ValorProventos": "4000,00",
+            "FGTS": "3545,04",
+            "FGTSContSocial": "3545,04",
+            "Faltas": "0",
+            "IdFolha": "52",
+            "IdFolhaPai": "0",
+            "LotacaoCodigo": "003",
+            "LotacaoNome": "Teste",
+            "Matricula": "000002",
+            "NrInscEmpregador": "49074113",
+            "NrInscEstabelecimento": "490740000201",
+            "Pagamento": "31/12/2020",
+            "Periodicidade": "1",
+            "PeriodoAquisitivo": "01/01/2019",
+            "PeriodoGozo": "01/01/2020",
+            "Retorno": "31/01/2020",
+            "Rubricas": {
+                "additionalProp1": {
+                    "Nome": "Salário-Base",
+                    "Referencia": "30 dia(s)",
+                    "Mascara": "Dias",
+                    "Tipo": "1",
+                    "Valor": "4.074,61"
+                }
+            },
+            "DemonstrativoBaseCalculoFerias": {
+                "additionalProp1": {
+                    "Nome": "Salário-Base",
+                    "Referencia": "30 dia(s)",
+                    "Mascara": "Dias",
+                    "Valor": "4.074,61"
+                }
+            }
+        }
+    ]
+}

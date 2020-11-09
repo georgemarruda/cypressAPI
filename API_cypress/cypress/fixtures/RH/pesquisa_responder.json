@@ -1,0 +1,22 @@
+{
+    "Pesquisas": [
+        {
+            "CPF": "39210359372",
+            "NrInscEmpregador": "49074113",
+            "Matricula": "000002",
+            "PesquisaId": "1",
+            "notificarGestor": true,
+            "diaResposta": "20/08/2020",
+            "respostas": [
+                {
+                    "perguntaId": "1",
+                    "valor": 5,
+                    "texto": "Resposta subjetiva ou comentário",
+                    "respostasId": [
+                        "1"
+                    ]
+                }
+            ]
+        }
+    ]
+}

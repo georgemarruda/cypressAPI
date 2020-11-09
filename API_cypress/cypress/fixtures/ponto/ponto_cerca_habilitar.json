@@ -1,0 +1,17 @@
+{
+    "Colaboradores": [
+        {
+            "NrInscEmpregador": "49074113",
+            "CPF": "39210359372",
+            "Matricula": "000002",
+            "ExigeCerca": "1",
+            "CercaPonto": [
+                {
+                    "Latitude": "-3.12345",
+                    "Longitude": "-8.54321",
+                    "Raio": "100"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Colaboradores": [
+        {
+            "CPF": "39210359372",
+            "TpInscEmpregador": "1",
+            "NrInscEmpregador": "49074113",
+            "NomeFantasia": "Fortes Tecnologia",
+            "PIS": "12345678919",
+            "DataNascimento": "01/01/1980",
+            "Nome": "Natasha Romanoff",
+            "NomeSocial": "Natasha Romanoff",
+            "Email": "fortescolabore@fortestecnologia.com.br",
+            "Matricula": "000002",
+            "DataAdmissao": "01/01/2010",
+            "CTPS": "123456",
+            "CNPJLicenciado": "63542443000124",
+            "NrInscEstabelecimento": "490741130000201",
+            "EnderecoEmpregador": "Rua ANtonio Fortes 330",
+            "RazaoSocial": "Fortes Tecnologia",
+            "LotacaoNome": "Desenvolvimento",
+            "Mae": "Maria Maria",
+            "Pai": "João João",
+            "Logradouro": "Rua Ciro Monteiro",
+            "Numero": "100",
+            "Complemento": "Apto 2",
+            "Bairro": "Cambeba",
+            "Municipio": "Fortaleza",
+            "UF": "CE",
+            "CEP": "60822-285",
+            "RG": "12345678948",
+            "Cargo": "Analista Dev",
+            "Salario": "6000,00"
+        }
+    ]
+}

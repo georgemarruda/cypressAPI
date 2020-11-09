@@ -1,0 +1,28 @@
+{
+  "Batidas": [
+    {
+      "TpInscEmpregador": "1",
+      "NrInscEmpregador": "49074113",
+      "CPF": "39210359372",
+      "Matricula": "000002",
+      "DataBatida": "25/05/2020",
+      "Hora": "18:00",
+      "Detalhes": "Detalhes diários",
+      "ResultadoProcessamento": "1",
+      "TurnoSentido": "1E",
+      "SeqNumerico": "1",
+      "Origem": 4
+    }
+  ],
+  "Saldos": [
+    {
+      "TpInscEmpregador": "1",
+      "NrInscEmpregador": "49074113",
+      "CPF": "39210359372",
+      "Matricula": "000002",
+      "DataSaldo": "31/12/2017",
+      "Valor": "10:33",
+      "Descricao": "Saldo do Banco de Horas"
+    }
+  ]
+}

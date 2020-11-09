@@ -1,0 +1,17 @@
+{
+    "Gestores": [
+        {
+            "NrInscEmpregador": "49074113",
+            "CPFGestor": "39210359372",
+            "MatriculaGestor": "000002",
+            "ListaGeridos": [
+                {
+                    "Matricula": "000001",
+                    "CPF": "92621219110",
+                    "NomeFantasia": "Fortes",
+                    "NrInscEmpregador": "49074113"
+                }
+            ]
+        }
+    ]
+}

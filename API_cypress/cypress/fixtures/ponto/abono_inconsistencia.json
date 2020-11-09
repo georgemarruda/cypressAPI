@@ -1,0 +1,14 @@
+{
+    "Abonos": [
+        {
+            "NrInscEmpregador": "49074113",
+            "Evento": "2",
+            "Hora": "08:00",
+            "MotivoId": "10.2",
+            "CPF": "39210359372",
+            "Matricula": "000002",
+            "DataAbono": "2019-10-18",
+            "MotivoRejeicao": "Texto explicando o motivo da Rejeição"
+        }
+    ]
+}

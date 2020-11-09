@@ -1,0 +1,20 @@
+{
+    "Mensagem": {
+        "ID": "9999",
+        "TpInscEmpregador": "1",
+        "NrInscEmpregador": "49074113",
+        "DataMensagem": "26/06/2020",
+        "MensagemTitulo": "Mensagem Teste endpoint data americana",
+        "MensagemCorpo": "Mensagem Teste endpoint data americana",
+        "YouTubeLink": "https://www.youtube.com/watch?v=LwUjglzIUhc",
+        "Colaboradores": [
+            {
+                "CPF": "39210359372",
+                "Contrato": {
+                    "Matricula": "000002",
+                    "Cargo": "Analista de Sistemas"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "id": "1",
+    "inicio": "01/01/2020",
+    "fim": "31/12/2020",
+    "NrInscEmpregador": "49074113",
+    "titulo": "Pesquisa Sobre COVID-19",
+    "independeMatricula": true,
+    "perguntas": [
+        {
+            "id": "1",
+            "tipo": "SUBJETIVA",
+            "ordem": "1",
+            "texto": "Pergunta 1",
+            "notaMinima": 1,
+            "notaMaxima": 10,
+            "respostas": [
+                {
+                    "id": "1",
+                    "perguntaId": "1",
+                    "ordem": "1",
+                    "texto": "Opção 1",
+                    "notificarGestor": true
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "tipo": "MULTIPLA_ESCOLHA",
+            "ordem": "2",
+            "texto": "Pergunta Multipla Escolha 2",
+            "textoComentario": "Comente aqui...",
+            "notaMinima": 1,
+            "notaMaxima": 10,
+            "respostas": [
+                {
+                    "id": "1",
+                    "perguntaId": "2",
+                    "ordem": "1",
+                    "texto": "Resposta 1",
+                    "notificarGestor": true
+                },
+                {
+                    "id": "2",
+                    "perguntaId": "2",
+                    "ordem": "1",
+                    "texto": "Resposta 2",
+                    "notificarGestor": true
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "tipo": "OBJETIVA",
+            "ordem": "4",
+            "texto": "Pergunta OBJETIVA 4",
+            "textoComentario": "Comente aqui...",
+            "notaMinima": 1,
+            "notaMaxima": 10,
+            "respostas": [
+                {
+                    "id": "1",
+                    "perguntaId": "4",
+                    "ordem": "1",
+                    "texto": "Resposta 1 com uma descrição muito grande que possa quebrar a linha e verificar o comportamento do aplicativo.",
+                    "notificarGestor": true
+                },
+                {
+                    "id": "2",
+                    "perguntaId": "4",
+                    "ordem": "1",
+                    "texto": "Resposta 2",
+                    "notificarGestor": true
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "tipo": "NOTA",
+            "ordem": "3",
+            "texto": "Questão de Nota 3",
+            "textoComentario": "Comente aqui...",
+            "notaMinima": 1,
+            "notaMaxima": 10
+        }
+    ],
+    "colaboradores": [
+        {
+            "CPF": "39210359372",
+            "NrInscEmpregador": "49074113",
+            "Matricula": "000002"
+        }
+    ]
+}

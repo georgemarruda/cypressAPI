@@ -1,0 +1,20 @@
+{
+    "Abonos": [
+      {
+        "NrInscEmpregador": "49074113",
+        "Evento": "2",
+        "CPF": "39210359372",
+        "Matricula": "000002",
+        "Nome": "Rafaela Castro Lim Santos",
+        "DataAbono": "2019-06-18",
+        "Turnos": [
+          "1"
+        ],
+        "MotivoId": "10.2",
+        "StatusSol": "1",
+        "Hora": "08:00",
+        "Observacao": "Texto da Observação",
+        "MotivoRejeicao": "Motivo da Rejeição"
+      }
+    ]
+  }

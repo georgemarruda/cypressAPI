@@ -1,0 +1,47 @@
+{
+    "Gestores": [
+        {
+            "NrInscEmpregador": "49074113",
+            "CPFGestor": "39210359372",
+            "MatriculaGestor": "000002",
+            "ListaGeridos": [
+                {
+                    "Matricula": "000001",
+                    "CPF": "92621219110",
+                    "NomeFantasia": "Fortes",
+                    "NrInscEmpregador": "49074113",
+                    "Cargo": "Desenvolvedor",
+                    "AreaOrganizacional": "Desenvolvimento"
+                }
+            ]
+        }
+    ],
+    "Geridos": [
+        {
+            "NrInscEmpregador": "49074113",
+            "CPFGerido": "92621219110",
+            "MatriculaGerido": "000001",
+            "ListaGestores": [
+                {
+                    "NrInscEmpregador": "49074113",
+                    "Gestores": [
+                        "39210359372"
+                    ]
+                }
+            ]
+        },
+        {
+            "NrInscEmpregador": "49074113",
+            "CPFGerido": "92621219110",
+            "MatriculaGerido": "000001",
+            "ListaGestores": [
+                {
+                    "NrInscEmpregador": "49074113",
+                    "Gestores": [
+                        "39210359372"
+                    ]
+                }
+            ]
+        }
+    ]
+}

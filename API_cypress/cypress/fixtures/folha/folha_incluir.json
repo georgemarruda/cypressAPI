@@ -1,0 +1,67 @@
+{
+   "Folhas": [
+      {
+         "TpInscEmpregador": "1",
+         "NrInscEmpregador": "49074113",
+         "CPF": "39210359372",
+         "Matricula": "000002",
+         "IdFolha": "50",
+         "IdFolhaPai": "0",
+         "TpFolha": "2",
+         "CargoCodigo": "008",
+         "CargoNome": "ANALISTA DE SISTEMA",
+         "LotacaoNome": "Teste",
+         "LotacaoCodigo": "003",
+         "TpInscEstabelecimento": "1",
+         "NrInscEstabelecimento": "49074113000201",
+         "AnoMes": "202006",
+         "DataPagamento": "30/06/2020",
+         "DataInicial": "01/06/2020",
+         "DataFinal": "30/06/2020",
+         "Periodicidade": "4",
+         "ValorProventos": "4.174,61",
+         "ValorDescontos": "863,02",
+         "ValorLiquido": "3.311,59",
+         "SalarioContratual": "4.074,61",
+         "BaseCalculoINSS": "4.174,61",
+         "BaseCalculoFGTS": "4.174,61",
+         "BaseCalculoIRRF": "3.352,06",
+         "FGTS": "333,96",
+         "FGTSContSocial": "-",
+         "SaldoFGTS": "941,88",
+         "Rubricas": {
+            "011": {
+               "Tipo": "1",
+               "Nome": "Salário-Base",
+               "Referencia": "30 dia(s)",
+               "Valor": "4.074,61"
+            },
+            "933": {
+               "Tipo": "1",
+               "Nome": "Teste",
+               "Referencia": " - ",
+               "Valor": "100,00"
+            },
+            "310": {
+               "Tipo": "2",
+               "Nome": "INSS",
+               "Referencia": "14%",
+               "Valor": "443,37"
+            },
+            "311": {
+               "Tipo": "2",
+               "Nome": "IRRF",
+               "Referencia": "15%",
+               "Valor": "148,01"
+            },
+            "390": {
+               "Tipo": "2",
+               "Nome": "Líquido Negativo Compensação",
+               "Referencia": " - ",
+               "Valor": "271,64"
+            }
+         },
+         "ValorMargem": "0"
+      }
+   ]
+}

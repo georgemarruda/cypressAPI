@@ -1,0 +1,30 @@
+{
+    "Colaboradores": [
+        {
+            "TpInscEmpregador": "1",
+            "NrInscEmpregador": "49074113",
+            "CNPJLicenciado": "63542443000124",
+            "NomeFantasia": "Empresa XPTO ",
+            "CPF": "39210359372",
+            "RG": "12345678900",
+            "PIS": "123456789000",
+            "Nome": "Natasha Romanoff",
+            "NomeSocial": "Natasha Romanoff",
+            "Mae": "Maria Santos da Silva",
+            "Pai": "Jose Oliveira da Silva",
+            "DataNascimento": "01/02/1983",
+            "Email": "joao.silva.lima@xpto.com.br",
+            "Logradouro": "Rua António Fortes",
+            "Numero": "330",
+            "Complemento": "2o Andar, Sala 1",
+            "Bairro": "Eng. Luciano Cavalcante",
+            "Municipio": "Fortaleza",
+            "UF": "CE",
+            "CEP": "60813460",
+            "Matricula": "123456",
+            "DataAdmissao": "01/01/2018",
+            "Cargo": "Cargo/Função",
+            "Salario": "1000,00"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json",
+    "baseUrl": "https://fortescolabore-hom.fortestecnologia.com.br",
+    "numTestsKeptInMemory": 0,
+    "watchForFileChanges": false,
+    "video": false,
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "configFile": "reporter-config.json"
+    },
+    "env": {
+        "homolog_freemium": "https://dv6lchezcc.execute-api.sa-east-1.amazonaws.com/homolog/",
+        "dev_freemium": "https://8deij4mw66.execute-api.sa-east-1.amazonaws.com/dev/"
+      }
+}

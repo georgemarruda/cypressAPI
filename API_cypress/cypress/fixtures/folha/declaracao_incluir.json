@@ -1,0 +1,43 @@
+{
+    "Declaracoes": [
+        {
+            "TpInscEmpregador": "1",
+            "NrInscEmpregador": "49074113",
+            "CPF": "39210359372",
+            "Matricula": "000002",
+            "AnoCalendario": "2018",
+            "NomeEmpresarialPagador": "AVENGERS",
+            "NrInscEstabelecimento": "49074113000201",
+            "TituloEleitorBeneficiario": "023453307/44",
+            "NomeBeneficiario": "Natasha Romanoff",
+            "NaturezaRendimento": "Rendimentos do Trabalho Assalariado ou Rendimentos sem Vínculo Empregatício",
+            "TotalRendimentos": "24000,00",
+            "ContribuicaoPrevidenciaOficial": "1430,00",
+            "ContribuicaoPrevidenciaComplementar": "0,00",
+            "PensaoAlimenticia": "0,00",
+            "ImpostoRetidoFonte": "0,00",
+            "ParcelaIsenta": "0,00",
+            "DiariasAjudaCusto": "0,00",
+            "PensaoProventosReformas": "0,00",
+            "LucroDividendos": "0,00",
+            "ValorTitularSocioMicroPequenaEmpresa": "0,00",
+            "IdenizacaoRecisaoContrato": "0,00",
+            "OutrosRendimentosIsentos": "0,00",
+            "DecimoTerceiro": "2000,00",
+            "ImpostoRetidoDecimoTerceiro": "0,00",
+            "OutrosRendimentosTributacaoExclusiva": "0,00",
+            "NaturezaRendimentosRecebidosAcumuladamente": "Descrição da Natureza",
+            "NumeroProcesso": "12345678913216549870",
+            "QuantidadeMeses": "1",
+            "TotalRendimentosTributaveis": "0,00",
+            "ExclusaoDespesasAcaoJudicial": "0,00",
+            "DeducaoContribuicaoPrevidenciariaOficial": "0,00",
+            "DeducaoPensaoAlimenticia": "0,00",
+            "ImpostoRendaRetido": "0,00",
+            "RendimentosIsentos": "0,00",
+            "InformacoesComplementares": "Observação: Lorem ipsum dolor sit amet...",
+            "NomeResponsavelInformacao": "José Oliveira da Silva",
+            "DataResponsavelInformacao": "28/02/2019"
+        }
+    ]
+}
